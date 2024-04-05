@@ -1,5 +1,5 @@
 # unity-audio
-How to implement Audio into Unity
+How to implement Audio into Unity (Sound effect and Background music)
 
 Link slide: https://www.canva.com/design/DAF56m7WAyI/XOG8qTkMODjCcB7BPl6_uQ/edit?fbclid=IwAR2I3_vJ7k-GzSocCaWa8cXkQJZCRsRCBiHpIRbJXqPRSr1tdYmh14K0z3k
 
